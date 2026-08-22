@@ -7,7 +7,6 @@ from sentence_transformers import SentenceTransformer
 
 DEFAULT_MODEL_NAME = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
 
-
 class EmbeddingEngine:
     """
     Local embedding engine for document chunks and user queries.
