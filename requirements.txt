@@ -1,1 +1,11 @@
 # Project dependencies will be added here
+streamlit
+pymupdf
+python-docx
+sentence-transformers
+scikit-learn
+numpy
+pandas
+rank-bm25
+python-dotenv
+requests
